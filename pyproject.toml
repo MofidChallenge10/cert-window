@@ -1,0 +1,6 @@
+[project]
+name = "cert-window"
+version = "0.1.0"
+description = "Remote TLS certificate expiry checker"
+requires-python = ">=3.10"
+license = {text = "MIT"}
